@@ -1,9 +1,8 @@
 ---
 permalink: /projects/
-title: "projects"
+title: "Projects"
 ---
 
-# Projects
 
 image to click on to take to project
 short description
